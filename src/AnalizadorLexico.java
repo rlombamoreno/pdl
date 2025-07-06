@@ -21,8 +21,7 @@ public class AnalizadorLexico {
 		this.fw2 = fw2;
 		this.ger = ger;
 		inicializarMapPalRes();
-		contLinea = 1;
-		
+		contLinea = 1;	
 	}
 
 	public Token getToken(boolean zonaDec,TablaSimbolos tsg, TablaSimbolos tsl) {
