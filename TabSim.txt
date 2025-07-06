@@ -1,0 +1,38 @@
+CONTENIDO DE LA TABLA # 101:
+* LEXEMA : 's'
+Atributos :
+ + tipo : 'cad'
+ + despl : 0
+--------- ----------
+* LEXEMA : 'put'
+Atributos :
+ + tipo : 'int'
+ + despl : 64
+--------- ----------
+* LEXEMA : 'ss'
+Atributos :
+ + tipo : 'log'
+ + despl : 65
+--------- ----------
+CONTENIDO DE LA TABLA # 102:
+* LEXEMA : 'n'
+Atributos :
+ + tipo : 'int'
+ + despl : 0
+--------- ----------
+* LEXEMA : 'b'
+Atributos :
+ + tipo : 'log'
+ + despl : 1
+--------- ----------
+* LEXEMA : 'log'
+Atributos :
+ + tipo : 'log'
+ + despl : 2
+--------- ----------
+CONTENIDO DE LA TABLA # 103:
+* LEXEMA : 'kk'
+Atributos :
+ + tipo : 'cad'
+ + despl : 0
+--------- ----------

@@ -1,0 +1,46 @@
+
+var string	cadena;
+input 
+cadena;
+var boolean logico1	;
+var boolean logico2 	;
+var int int2			;
+
+
+
+// Ejemplo #2
+
+
+int1 = 000000378;
+
+int2 = int1;
+cadena = "string";
+
+function  string ff(string ss)
+{
+	logico2 = ! logico1;
+	if (logico2) cadena = ff (ss);
+	varglobal = 78;
+	return cadena;
+}
+		
+function  string funciOn (string logico1)
+{
+	var int let ;
+
+  if (logico2){
+	logico2 = int1 < int2;logico1="";
+  }else{output 0;}
+  
+  
+  return logico1;
+}
+cadena = funciOn(ff(cadena));
+
+output cadena;
+
+cadena = fff(cadena);
+
+
+
+

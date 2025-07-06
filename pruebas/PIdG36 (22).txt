@@ -1,0 +1,75 @@
+var string s ;	///variable global cadena
+
+var int    uno;
+var int    UNO;
+var 
+boolean 
+booleano
+;function int Factorial (int n)	
+{
+	if (n)	return 1;
+	return Factorial (n-2);	
+	jlfc();
+}
+
+output Factorial (s);
+
+var boolean bo;
+
+if (bo) aaaaaa=0;
+
+if (bo) aaaaa=3;
+
+
+function void gggg()
+{
+aa_aa=1;
+output s64;
+}
+var int  For;
+var int  functional;
+var int  While;	
+
+function void print (string s, string msg, int f_f_)	
+{
+	output (s); output msg; output(f_f_);
+	return;	
+}
+function string cadena (boolean log)
+{
+	if ( log)
+	{
+		print (s, s, 0);
+		if (uno < UNO)	return (s);
+	}
+}
+
+	if (booleano)	{UNO=1;}
+	else {uno= cadena (s);}
+
+//* 2 funciones raras */
+
+
+
+function int fF  (int Ff)
+{
+	output Ff-2;
+}
+
+function int Ff  (int FF)
+{
+	var boolean  pp_A4A;
+	if (pp_A4A)
+	return (fF(Ff(FF)));
+}
+
+output Ff(fF(fF(Ff(0))));UNO=1;uno=UNO;
+if (num < 0)		output "No existe el factorial de negativos.";
+For=  Factorial (num);
+
+
+
+
+//"fin'?
+
+

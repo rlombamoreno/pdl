@@ -1,0 +1,15 @@
+var string texto;
+output (((8)));
+function void pideTexto  (void)
+{
+	output "Teclea un texto";
+	input texto;
+}
+function void put  (string msg1)
+{
+	output "Texto tecleado:";
+	output msg1;
+}
+pideTexto();
+  put
+	(texto);

@@ -1,0 +1,12 @@
+var int a ;
+var  int   b  ;
+var boolean bbb ;
+a = 3;
+b=a					    		 	 	 	 	 	 	 	 	 	 	 	 	 	 	 													;
+if (a < b) b = 1;
+
+output "123456789012345678901234567890123456789012345678901234567890";
+k__variable__global__entera__=000000000000000000000000;
+output k__variable__global__entera__ ;a = a - b;
+output a ;
+output b;

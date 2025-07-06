@@ -1,0 +1,61 @@
+var int    uno;
+var int    UNO;
+var 
+boolean 
+booleano
+;var string s;	
+s = "Introduce un entero.";	
+
+output "Factorial !";
+output s;
+var boolean bool;
+input num;
+
+ num=bool;
+
+function void get(boolean fff){output pp_f;}
+var boolean bo;
+function  int Factorial(int n)	
+{
+	if (bo)	{return 333;}
+	else {output n;return n - Factorial (n-1);}
+}
+f3();
+var int iiiii;
+var int aaaaa;
+
+
+output Factorial (s);
+if bo {aaaaa=0;}
+
+
+
+
+
+
+var int  For;
+var int  functional;
+var int  While;	
+
+function void print (string s, string msg, int print)	
+{
+	output (s); output msg; output(print);
+	return;	
+}
+function string cadena (boolean log)
+{
+	if ( log)
+	{
+		print (s, "hola", 321);
+	}
+}
+
+  if (booleano){
+	booleano = UNO < s;
+  }else{print (s, "adios", 123);}
+if (num < 0)		output "Sin factorial.";
+For=  Factorial (num);
+uno=1;
+UNO=uno;
+
+

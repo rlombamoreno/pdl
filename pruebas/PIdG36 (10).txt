@@ -1,0 +1,39 @@
+var int int_;
+var string string_;
+var boolean boolean_;
+output (00);var    boolean b;
+var    int		i;
+var    string  s;
+input s;
+function string function_ (int int_, string string_2, boolean boolean_1){
+	int_ = 
+	091-i;
+	if (boolean_1) 
+	string_2=string_;
+	b = ! boolean_;
+	return string_2
+;}
+
+
+
+function void vacia (void){int_=0;return;}
+
+if (boolean_) vacia();
+output (function_(123,"'",boolean_))
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+i = 9999;
+
+output (  i );
